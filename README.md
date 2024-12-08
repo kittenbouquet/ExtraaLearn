@@ -26,7 +26,3 @@ Based on the model's insights, the following recommendations were made:
 - Target high-engagement users for marketing efforts.
 - Improve profile completion to boost conversion rates.
 - Experiment with customer re-engagement strategies to recover missed opportunities.
-
-## License
-
-This project is licensed under the MIT License
