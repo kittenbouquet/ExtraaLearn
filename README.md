@@ -16,20 +16,6 @@ This project uses machine learning to predict customer conversions with a Decisi
 - **Model Evaluation**: Detailed performance metrics to evaluate the model's accuracy, precision, recall, and F1-score.
 - **Actionable Insights**: Insights from the model were used to make recommendations for improving customer acquisition strategies.
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-conversion-prediction.git
-   ```
-   
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebook or Python scripts to reproduce the analysis and train the models.
-
 ## Results
 
 The **Random Forest** model achieved an **accuracy of 81%**, providing valuable insights into which features are most important for predicting customer conversion. Key factors like **website visits** and **profile completion** were identified as strong predictors.
